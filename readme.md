@@ -14,7 +14,7 @@
 
 1. A client can only adopt a puppy. It cannot remove the puppy from posting
 2. If a client wants to adopt a puppy. They will fill-out a form.
-3. A client can edit their information.
+3. A client can edit their information once they finished adopting.
 
 **Others**
 
